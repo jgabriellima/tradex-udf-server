@@ -20,4 +20,4 @@ http.createServer(function(request, response) {
 
 }).listen(PORT);
 
-console.log("Datafeed running at\n => http://localhost:" + port + "/\nCTRL + C to shutdown");
+console.log("Datafeed running at\n => http://localhost:" + PORT + "/\nCTRL + C to shutdown");
