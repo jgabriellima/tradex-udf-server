@@ -1,0 +1,17 @@
+{
+  "name": "tradex-udf-server",
+  "version": "0.3.0",
+  "description": "Tradex UDF Server",
+  "engines": {
+    "node": "12.x"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  },
+  "devDependencies": {}
+}
